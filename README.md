@@ -1,1 +1,8 @@
 # Other-Projects
+
+## Github (333BCode Org)
+[Robotics Codebase](https://github.com/333BCode/2021-2022-Season-Code)
+
+## Replit
+[Asteroids Game](https://asteroids-with-mods.alebro6.repl.co/), [Code](https://replit.com/@alebro6/Asteroids-with-Mods)
+[Website Parser](https://replit.com/@alebro6/IncompleteStaticMedian)
