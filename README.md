@@ -1,6 +1,6 @@
 # Other-Projects
 
-## Github (333BCode Org)
+## Github (333BCode GitHub Org)
 [Robotics Codebase](https://github.com/333BCode/2021-2022-Season-Code)
 
 ## Replit
