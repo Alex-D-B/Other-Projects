@@ -6,4 +6,4 @@
 ## Replit
 [Asteroids Game](https://asteroids-with-mods.alebro6.repl.co/), [Code](https://replit.com/@alebro6/Asteroids-with-Mods) Followed [Mt Ford Studios'](https://www.youtube.com/c/MtFordStudios) guided tutorial on youtube before adding in additional functionality.
 
-[Website Parser](https://replit.com/@alebro6/IncompleteStaticMedian)
+[Database Relevant Link Finder](https://replit.com/@alebro6/IncompleteStaticMedian)
