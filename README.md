@@ -7,6 +7,7 @@
 
 ## (Partner Project)
 [Connect Four App Site](https://porter-sh.github.io/rust-connect-four/)
+
 [Connect Four App Code](https://github.com/porter-sh/rust-connect-four)
 
 ## Replit
